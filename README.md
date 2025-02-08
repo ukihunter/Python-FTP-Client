@@ -17,7 +17,7 @@ A **powerful yet simple FTP client** built with Python, allowing seamless file t
 
 1️⃣ **Clone the Repository**  
 ```sh  
-git clone https://github.com/yourusername/your-repo-name.git  
+git clone https://github.com/Ukihanter/Python-FTP-Client/tree/main
 cd your-repo-name  
 ```  
 
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ⚡ Run the FTP Client:  
 ```sh  
-python main.py  
+python gui.py  
 ```  
 
 💡 Enter FTP server details and start transferring files easily!  

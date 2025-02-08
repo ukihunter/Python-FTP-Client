@@ -13,6 +13,7 @@ def relative_to_assets(path: str) -> Path:
     return ASSETS_PATH / Path(path)
 
 window = Tk()
+window.title("FTP client By uki")
 window.geometry("1280x720")
 window.configure(bg="#2B2B2B")
 

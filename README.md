@@ -47,4 +47,4 @@ python gui.py
 
 ---
 
-Now you should be able to copy-paste easily! 🚀 Let me know if you need any changes. 😊
+

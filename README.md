@@ -1,4 +1,3 @@
-Here’s the GitHub description in plain text format for easy copy-pasting:  
 
 ---
 

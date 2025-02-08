@@ -38,6 +38,7 @@ python gui.py
 🔹 Python 3.x  
 🔹 `ftplib` (Built-in)  
 🔹 Any additional dependencies in `requirements.txt`  
+🔹 Defult local path is set to D:\ Feel free to edit it.
 
 ## 📜 License  
 📄 Open-source under the **MIT License** – Feel free to contribute!  

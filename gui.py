@@ -287,6 +287,7 @@ entry_1 = Entry(
     bg="#D9D9D9",
     fg="#000716",
     highlightthickness=0
+    show="*"
 )
 entry_1.place(
     x=745.0,

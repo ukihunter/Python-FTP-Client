@@ -5,6 +5,7 @@
 
 A **powerful yet simple FTP client** built with Python, allowing seamless file transfers between local and remote servers. Perfect for managing FTP connections with ease!  
 
+![Image description](Screenshot 2025-03-02 143429.jpg)
 ## 🎯 Key Features  
 ✔️ **Connect** to any FTP server securely  
 📂 **Upload & Download** files effortlessly  
